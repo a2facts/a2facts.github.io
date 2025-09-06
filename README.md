@@ -2,4 +2,4 @@ Github Pages source for [a2facts.github.io](https://a2facts.github.io/) the [Acc
 
 Moving soon to the jekyll blog design by cotes2020 https://github.com/cotes2020/jekyll-theme-chirpy
 
-Contact at github.laborious233 at passinbox dot com
+Contact at github.laborious233 at the domain passinbox dot com
