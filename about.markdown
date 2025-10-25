@@ -9,3 +9,9 @@ This is the Accountable to Facts blog. I care about how ideas shape the world an
 Outside of policy and data, I find balance in practices like meditation, and I draw inspiration from art and music. These rational and creative interests inform the way I approach both my work and my life. I may share some aspects of my practice that I find useful as well as a record of my favorite examples I find along the way.
 
 Feel free to get in touch; I would love to connect with creators who also want to make the world a little better and a little more empirical. I can be reached at the username jbb774 at the domain tutamail dot com.
+
+Blog at [https://www.a2facts.com/](https://www.a2facts.com/)
+Blusky [@stillmad5442.bsky.social](https://bsky.app/profile/stillmad5442.bsky.social)
+Substack [@a2facts](https://substack.com/@a2facts)
+Medium [@A2Facts](https://medium.com/@A2Facts)
+YouTube [@AccountableToFacts](https://www.youtube.com/)
