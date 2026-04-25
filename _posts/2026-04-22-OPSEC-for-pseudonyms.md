@@ -6,7 +6,7 @@ categories: politics science
 permalink: /blog/OPSEC-for-pseudonyms
 ---
 
-![a 3-panel comic](/assets/images/260420.png)
+![3-panel comic. Panel 1: A woman tells a sad man 'this protest stuff is boring and nobody cares.' Panel 2: She yells 'Surprise!' with a big smile. Panel 3: She tells the confused man 'This was a test of security by obscurity, and you passed'](/assets/images/260420.png)
 
 # OPSEC for Political Speech
 
