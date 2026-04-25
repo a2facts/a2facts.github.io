@@ -12,7 +12,7 @@ permalink: /blog/OPSEC-for-pseudonyms
 
 I feel compelled to speak out against the abuses of the Republican administration, but it is clear that this carries risks. Security by obscurity is a bad idea. Probably this little blog project won't be noticed much, but it is a mistake to rely on low readership to prevent blowback (whether through spurious legal actions, unofficial blacklisting, or just disruptive trolling).
 
-This post is also available as a [youtube video here](https://youtu.be/VcI2wbP4hNU) [https://youtu.be/VcI2wbP4hNU](https://youtu.be/VcI2wbP4hNU)
+This post is also available as a [youtube video here](https://youtu.be/AllopHwkhmo) [https://youtu.be/AllopHwkhmo](https://youtu.be/AllopHwkhmo)
 
 The government is not supposed to target political opponents for law enforcement. The government is not supposed to withhold contracts and grants based on political speech. But there are many lawsuits alleging that the government is doing exactly that. It is antithetical to democracy... but the government seems to be doing it anyway. 
 
