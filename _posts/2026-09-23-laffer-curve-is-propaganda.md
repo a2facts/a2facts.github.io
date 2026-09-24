@@ -59,7 +59,7 @@ This is Dr. Heather Cox Richardson, political historian. I won't play her video,
 
 They wanted everyone to believe we were on the right side of the Laffer curve. 
 
-> Aa soon as Reagan is elected and his director office of management and budget gets in and starts trying to figure out how much extra money they're going to make from cutting all these taxes, the government computers say, "You're in real trouble because you're not going to have any revenue here and you're going to throw everything into the red." So, you know what they did? They reprogrammed the computers. They didn't say, "Oh, oopsy poopsy, we were wrong." They said, "Well, we know we're right. So now we're just going to reprogram the computers to show that we're right." 
+> As soon as Reagan is elected and his director office of management and budget gets in and starts trying to figure out how much extra money they're going to make from cutting all these taxes, the government computers say, "You're in real trouble because you're not going to have any revenue here and you're going to throw everything into the red." So, you know what they did? They reprogrammed the computers. They didn't say, "Oh, oopsy poopsy, we were wrong." They said, "Well, we know we're right. So now we're just going to reprogram the computers to show that we're right." 
 
 They were wrong, cut-tax-to-raise-revenue strategy has failed over and over.
 
